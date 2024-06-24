@@ -3,8 +3,6 @@
 Welcome to the NewRandom Class!
 
 ## Table of Contents
-- [Extending the Random class](#extending-the-random-class)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [App File Structure](#app-file-structure)
   - [Features](#features)
