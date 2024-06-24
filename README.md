@@ -22,9 +22,9 @@ This application presents the user with a menu of functions to choose for genera
 ## App File Structure
 The following is a brief overview of the file structure
 
-[./src/main/java/NewRandomTest.java](https://github.com/voyagerfan/Weather-API/blob/main/src/main/java/myWeatherApp.java) - Main entry point for the program
+[./src/main/java/NewRandomTest.java](https://github.com/voyagerfan/Extending-the-Random-Class/blob/main/src/main/java/NewRandomTest.java) - Main entry point for the program
 
-[./src/main/java/NewRandom.java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/tree/main/src) - All functions from the NewRandom class.
+[./src/main/java/NewRandom.java](https://github.com/voyagerfan/Extending-the-Random-Class/blob/main/src/main/java/NewRandom.java) - All functions from the NewRandom class.
 
 ## Features
 
@@ -80,7 +80,7 @@ The program includes the following features:
 
 1) To run this program, you will need to install an IDE (e.g. [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox)) and the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/).
 
-2) Once you have installed an IDE and JDK, you may clone the repo and open the project folder or create your own project and copy the java files from the [src/main/java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/tree/main/src) folder. 
+2) Once you have installed an IDE and JDK, you may clone the repo and open the project folder or create your own project and copy the java files from the [src/main/java](https://github.com/voyagerfan/Extending-the-Random-Class/tree/main/src/main/java) folder. 
 
 
 ### 2. Run the Program
