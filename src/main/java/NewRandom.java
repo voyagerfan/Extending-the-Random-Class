@@ -1,5 +1,3 @@
-package Project1;
-
 import java.util.*;
 
 public class NewRandom extends Random
